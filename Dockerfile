@@ -1,1 +1,1 @@
-FROM andakawa/slack-spring-boot-starter:1.0
+FROM kreait/slack-spring-boot-starter:latest
